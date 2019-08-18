@@ -1,5 +1,5 @@
 {
-  "name": "Naresh Nagabushan",
+  "name": "Jonathon Taylor",
   "icon": "./static/img/personal-website-logo.webp",
   "name_font_family": "Beth Ellen",
   "font_family": "Source Sans Pro",
@@ -8,9 +8,7 @@
   "project_cards": "#f1f1f1",
   "blog_cards": "#f1f1f1",
   "publication_cards": "#f1f1f1",
-  "resume_url": "https://files.naresh1318.com/public/Me/Naresh_Nagabushan.pdf",
-  "github_url": "https://github.com/Naresh1318",
-  "medium_url": "https://medium.com/@rnaresh.n",
-  "linkedin_url": "https://www.linkedin.com/in/naresh-nagabushan-2946b013a",
-  "twitter_url": "https://twitter.com/Naresh_Reddy_"
+  "resume_url": "https://files.bytesofjonny.com/public/Taylor_Jonathon_Resume.pdf",
+  "github_url": "https://github.com/JDTAY",
+  "linkedin_url": "https://www.linkedin.com/in/jonathon-t-95b8a2143/"
 }
